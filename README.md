@@ -3,7 +3,7 @@
     <h1 align="center">HI , I'm Augusto Gallo</h1>
     <h3 align="center">A passionate web developer from Argentina.
         My Social Media: Linkedin, Instagram 
-        <h2 align="center">Contact : augustogallo98@gmail.com</h2>
+        <h3 align="center">Contact : augustogallo98@gmail.com</h3>
     </h3>
 </div>
 
