@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me :
-- 💬 Ask me about **HTML, CSS, Javascript, React JS, SASS**
+- 💬 Ask me about **HTML, CSS, Javascript, React JS**
 - 📫 How to reach me **augustogallo98@gmail.com**
 - 🌱 I’m currently learning **JAVA , Backend**
 - 🌐 **augustogallo98@gmail.com**
