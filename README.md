@@ -3,6 +3,7 @@
     <h1 align="center">HI , I'm Augusto Gallo</h1>
     <h3 align="center">A passionate web developer from Argentina.
         My Social Media: Linkedin, Instagram 
+        Contact : augustogallo98@gmail.com
     </h3>
 </div>
 
@@ -12,7 +13,9 @@
 - 💬 Ask me about **HTML, CSS, Javascript, React JS, SASS**
 - 📫 How to reach me **augustogallo98@gmail.com**
 - 🌱 I’m currently learning **JAVA , Backend**
+- 🌐 **augustogallo98@gmail.com**
 - 🌐 **https://www.linkedin.com/in/augusto-gallo-ab1150150/**
+- 🌐 **https://www.instagram.com/galloaugusto/**
 
 
 <div align="left">
