@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me :
 - 💬 Ask me about **HTML, CSS, Javascript, React JS**
 - 📫 How to reach me **augustogallo98@gmail.com**
-- 🌱 I’m currently learning **JAVA , Backend**
+- 🌱 I’m currently learning **JAVA , Angular , Backend**
 - 🌐 **augustogallo98@gmail.com**
 - 🌐 **https://www.linkedin.com/in/augusto-gallo-ab1150150/**
 - 🌐 **https://www.instagram.com/galloaugusto/**
